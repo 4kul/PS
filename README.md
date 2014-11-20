@@ -1,4 +1,4 @@
 PS
 ==
 
-Powershell Repozitory
+Powershell Repo
